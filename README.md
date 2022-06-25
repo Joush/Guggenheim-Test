@@ -1,5 +1,5 @@
 # Guggenheim-Test 
-This is assessment test provided by Guggenheim for the interview process 
+This is the assessment test provided by Guggenheim for the interview process 
 
 This project is deployed into two environment, Test and production.			
 
