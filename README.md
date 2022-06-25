@@ -1,7 +1,8 @@
 # Guggenheim-Test 
 This is assessment test provided by Guggenheim for the interview process 
 
-This project is deployed into two environment, Test and production.
+This project is deployed into two environment, Test and production.			
+
 The infrastructure is hosted in Azure east-us2 region 
 
 
